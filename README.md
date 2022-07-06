@@ -1,6 +1,5 @@
 # This is another version of the README.md file
-**BOLD**
-Vi can write in Markdown.
+**This is bold text**
 
 - Create a GitHub account.
 - Create a GPG Key

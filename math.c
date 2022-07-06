@@ -16,6 +16,6 @@ int main()
    printf("Difference = %d\n", subtract);
    printf("Multiplication = %d\n", multiply);
    printf("Division = %.2f\n", divide); // "%.2lf" to print two decimal digits, by default (%lf) we get six
- 
+   printf("\n\nMy name is Danny\n\n"); 
    return 0;
 }
